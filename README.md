@@ -1,6 +1,7 @@
 # Master's thesis Applied Mathematic
 Investigating and determining the appropriate activation function and using it in the direction of the architecture of a deep network to verify the identity of wireless devices with RF fingerprinting method
-Supervisor
+
+#Supervisor
 Dr. Saeid SarAbadan
 Consultant Professor
 Dr. Meysam RaeisDanaei
